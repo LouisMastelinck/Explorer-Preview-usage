@@ -1,4 +1,4 @@
-# Explorer-usage
+# Explorer Preview usage
 
 With the correct permission the Threat explorer can be used to view any email in any user his mailbox. Its a very strong security toolt that allows you to "preview" and "download" any email that is still within the mailbox. In the wrong hand (insider threat), this legitemate securit could be easily abused.
 
